@@ -3,6 +3,8 @@ title: "Kaggle: Predicting Backpack Prices with Multiple Regression"
 author: "Andrex Ibiza, MBA"
 date: 2025-02-01
 output: html_notebook
+editor_options: 
+  chunk_output_type: inline
 ---
 
 # Kaggle: Predicting Backpack Prices with Multiple Regression
